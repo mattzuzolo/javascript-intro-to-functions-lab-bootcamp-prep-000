@@ -1,3 +1,5 @@
+console.log("FIRST LINE")
+
 function shout(string) {
   return string.toUpperCase()
 }
