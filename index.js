@@ -14,7 +14,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-
+console.log("PRE IF TEST")
 
 function sayHiToGrandma(string) {
   
