@@ -14,9 +14,11 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-console.log("MY NAME IS MATT")
+
 
 function sayHiToGrandma(string) {
+  
+  console.log("MY NAME IS MATT")
   
   if (string === string.toLowerCase) {
     ///string.toLowerCase === string
