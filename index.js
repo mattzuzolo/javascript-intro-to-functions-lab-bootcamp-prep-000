@@ -27,13 +27,15 @@ function sayHiToGrandma(string) {
     return "I can't hear you!"
   } 
   
+  else if (string === "I love you, Grandma.") {
+           console.log("LOVETEST")
+    return "I love you, too."
+  }
+  
   else if (string === string.toUpperCase) {
            console.log("UPPERCASETEST")
     return "YES INDEED!"
   } 
   
-  else if (string === "I love you, Grandma.") {
-           console.log("LOVETEST")
-    return "I love you, too."
-  }
+  
 }
