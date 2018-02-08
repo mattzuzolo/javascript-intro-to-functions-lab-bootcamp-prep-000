@@ -30,11 +30,13 @@ function sayHiToGrandma(string) {
 
   
   else if (string === string.toUpperCase) {
+    var string
            console.log("UPPERCASETEST")
     return "YES INDEED!"
   } 
   
     else if (string === "I love you, Grandma.") {
+      var string
            console.log("LOVETEST")
     return "I love you, too."
   }
