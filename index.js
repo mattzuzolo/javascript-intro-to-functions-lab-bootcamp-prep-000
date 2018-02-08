@@ -1,7 +1,3 @@
-            console.log("FIRST LINE")
-
-var string = "Hello"
-
 function shout(string) {
   return string.toUpperCase()
 }
@@ -18,11 +14,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-           console.log("PRE IF TEST")
-
 function sayHiToGrandma(string) {
-  
-            console.log("MY NAME IS MATT")
   
   if (string === string.toLowerCase) {
            console.log("LOWERCASETEST")
