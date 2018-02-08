@@ -1,4 +1,4 @@
-  console.log("FIRST LINE")
+            console.log("FIRST LINE")
 
 function shout(string) {
   return string.toUpperCase()
@@ -16,24 +16,24 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-  console.log("PRE IF TEST")
+           console.log("PRE IF TEST")
 
 function sayHiToGrandma(string) {
   
-  console.log("MY NAME IS MATT")
+            console.log("MY NAME IS MATT")
   
   if (string === string.toLowerCase) {
-    console.log("LOWERCASETEST")
+           console.log("LOWERCASETEST")
     return "I can't hear you!"
   } 
   
   else if (string === string.toUpperCase) {
-    console.log("UPPERCASETEST")
+           console.log("UPPERCASETEST")
     return "YES INDEED!"
   } 
   
   else if (string === "I love you, Grandma.") {
-    console.log("LOVETEST")
+           console.log("LOVETEST")
     return "I love you, too."
   }
 }
