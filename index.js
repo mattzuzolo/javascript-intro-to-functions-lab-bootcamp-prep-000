@@ -21,6 +21,7 @@ function sayHiToGrandma(string) {
   console.log("MY NAME IS MATT")
   
   if (string === string.toLowerCase) {
+    string
     ///string.toLowerCase === string
     return "I can't hear you!"
   } 
