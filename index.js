@@ -1,4 +1,4 @@
-console.log("FIRST LINE")
+  console.log("FIRST LINE")
 
 function shout(string) {
   return string.toUpperCase()
@@ -16,7 +16,7 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 
-console.log("PRE IF TEST")
+  console.log("PRE IF TEST")
 
 function sayHiToGrandma(string) {
   
