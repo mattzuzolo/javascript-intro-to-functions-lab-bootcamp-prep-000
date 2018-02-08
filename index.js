@@ -21,18 +21,14 @@ function sayHiToGrandma(string) {
   //console.log("MY NAME IS MATT")
   
   if (string === string.toLowerCase) {
-    //string
-    ///string.toLowerCase === string
     return "I can't hear you!"
   } 
   
-  else if (string /* === string.toUpperCase*/) {
-    string.toUpperCase === string
+  else if (string === string.toUpperCase) {
     return "UPPER RESPONSE"
   } 
   
   else if (string === "I love you, Grandma.") {
-    //"I love you, Grandma." === string
     return "I love you, too."
   }
 }
