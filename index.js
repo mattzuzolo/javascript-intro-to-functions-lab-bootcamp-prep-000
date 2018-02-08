@@ -19,12 +19,12 @@ function sayHiToGrandma(string) {
   
   if (whisper(string)) {
     string.toLowerCase === string
-    return "I can't hear you!"
+    return "lower response"
   } 
   
   else if (shout(string)) {
     string.toUpperCase === string
-    return "YES INDEED!"
+    return "upper response"
   } 
   
   else if (string) {
