@@ -1,6 +1,6 @@
             console.log("FIRST LINE")
 
-var string = "Hello."
+var string = "Hello"
 
 function shout(string) {
   return string.toUpperCase()
