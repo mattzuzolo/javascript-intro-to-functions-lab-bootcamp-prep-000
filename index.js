@@ -18,7 +18,7 @@ var string = "HELLO"
 
 function sayHiToGrandma(string) {
   
-  if (string) {
+  if (whisper(string)) {
     string.toLowerCase === string
     return "lower response"
   } 
