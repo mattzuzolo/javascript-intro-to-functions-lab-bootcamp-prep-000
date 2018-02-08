@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
   
             console.log("MY NAME IS MATT")
   
-  if (string === string.toLowerCase) {
+  if (string.toLowerCase === string) {
            console.log("LOWERCASETEST")
     return "I can't hear you!"
   } 
